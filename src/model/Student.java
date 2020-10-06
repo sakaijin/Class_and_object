@@ -1,13 +1,10 @@
-package java;
+package model;
 
 public class Student {
 
     private String name;
-
     private long age;
-
     private String gender;
-
     private long IDNo;
 
     public String getName() {

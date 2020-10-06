@@ -1,5 +1,3 @@
-package java;
-
 public class main {
 
     Student student1 = new Student();
